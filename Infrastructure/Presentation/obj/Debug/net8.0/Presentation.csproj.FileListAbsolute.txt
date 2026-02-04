@@ -15,3 +15,21 @@ D:\c#\Brandifay\BrandifySolution\Infrastructure\Presentation\obj\Debug\net8.0\Pr
 D:\c#\Brandifay\BrandifySolution\Infrastructure\Presentation\obj\Debug\net8.0\refint\Presentation.dll
 D:\c#\Brandifay\BrandifySolution\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.pdb
 D:\c#\Brandifay\BrandifySolution\Infrastructure\Presentation\obj\Debug\net8.0\ref\Presentation.dll
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\Presentation\bin\Debug\net8.0\Presentation.deps.json
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\Presentation\bin\Debug\net8.0\Presentation.dll
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\Presentation\bin\Debug\net8.0\Presentation.pdb
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\Presentation\bin\Debug\net8.0\Services.Abastraction.dll
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\Presentation\bin\Debug\net8.0\shared.dll
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\Presentation\bin\Debug\net8.0\Services.Abastraction.pdb
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\Presentation\bin\Debug\net8.0\shared.pdb
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.sourcelink.json
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.dll
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\Presentation\obj\Debug\net8.0\Presentation.pdb
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\Presentation\obj\Debug\net8.0\ref\Presentation.dll

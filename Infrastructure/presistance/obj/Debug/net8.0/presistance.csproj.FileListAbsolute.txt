@@ -19,3 +19,25 @@ D:\c#\Brandifay\BrandifySolution\Infrastructure\presistance\obj\Debug\net8.0\pre
 D:\c#\Brandifay\BrandifySolution\Infrastructure\presistance\obj\Debug\net8.0\refint\presistance.dll
 D:\c#\Brandifay\BrandifySolution\Infrastructure\presistance\obj\Debug\net8.0\presistance.pdb
 D:\c#\Brandifay\BrandifySolution\Infrastructure\presistance\obj\Debug\net8.0\ref\presistance.dll
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\bin\Debug\net8.0\presistance.deps.json
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\bin\Debug\net8.0\presistance.dll
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\bin\Debug\net8.0\presistance.pdb
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\bin\Debug\net8.0\Domain.dll
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\bin\Debug\net8.0\Services.Abastraction.dll
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\bin\Debug\net8.0\Services.dll
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\bin\Debug\net8.0\shared.dll
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\bin\Debug\net8.0\Services.pdb
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\bin\Debug\net8.0\Domain.pdb
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\bin\Debug\net8.0\Services.Abastraction.pdb
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\bin\Debug\net8.0\shared.pdb
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\obj\Debug\net8.0\presistance.csproj.AssemblyReference.cache
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\obj\Debug\net8.0\presistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\obj\Debug\net8.0\presistance.AssemblyInfoInputs.cache
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\obj\Debug\net8.0\presistance.AssemblyInfo.cs
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\obj\Debug\net8.0\presistance.csproj.CoreCompileInputs.cache
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\obj\Debug\net8.0\presistance.sourcelink.json
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\obj\Debug\net8.0\presista.FF437F7F.Up2Date
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\obj\Debug\net8.0\presistance.dll
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\obj\Debug\net8.0\refint\presistance.dll
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\obj\Debug\net8.0\presistance.pdb
+D:\c#\Brandifay\New folder\Brandify\Infrastructure\presistance\obj\Debug\net8.0\ref\presistance.dll

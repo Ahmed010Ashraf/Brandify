@@ -10,3 +10,16 @@ D:\c#\Brandifay\BrandifySolution\shared\obj\Debug\net8.0\refint\shared.dll
 D:\c#\Brandifay\BrandifySolution\shared\obj\Debug\net8.0\shared.pdb
 D:\c#\Brandifay\BrandifySolution\shared\obj\Debug\net8.0\ref\shared.dll
 D:\c#\Brandifay\BrandifySolution\shared\obj\Debug\net8.0\shared.csproj.AssemblyReference.cache
+D:\c#\Brandifay\New folder\Brandify\shared\bin\Debug\net8.0\shared.deps.json
+D:\c#\Brandifay\New folder\Brandify\shared\bin\Debug\net8.0\shared.dll
+D:\c#\Brandifay\New folder\Brandify\shared\bin\Debug\net8.0\shared.pdb
+D:\c#\Brandifay\New folder\Brandify\shared\obj\Debug\net8.0\shared.csproj.AssemblyReference.cache
+D:\c#\Brandifay\New folder\Brandify\shared\obj\Debug\net8.0\shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Brandifay\New folder\Brandify\shared\obj\Debug\net8.0\shared.AssemblyInfoInputs.cache
+D:\c#\Brandifay\New folder\Brandify\shared\obj\Debug\net8.0\shared.AssemblyInfo.cs
+D:\c#\Brandifay\New folder\Brandify\shared\obj\Debug\net8.0\shared.csproj.CoreCompileInputs.cache
+D:\c#\Brandifay\New folder\Brandify\shared\obj\Debug\net8.0\shared.sourcelink.json
+D:\c#\Brandifay\New folder\Brandify\shared\obj\Debug\net8.0\shared.dll
+D:\c#\Brandifay\New folder\Brandify\shared\obj\Debug\net8.0\refint\shared.dll
+D:\c#\Brandifay\New folder\Brandify\shared\obj\Debug\net8.0\shared.pdb
+D:\c#\Brandifay\New folder\Brandify\shared\obj\Debug\net8.0\ref\shared.dll

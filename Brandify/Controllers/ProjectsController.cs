@@ -46,5 +46,33 @@ namespace Brandify.Controllers
 
             return Ok(res);
         }
+
+
+        //////////////////////technologies////////////////////////
+
+        [HttpGet("GetAllTechnologies")]
+        public async Task<ActionResult<TechnologiesDto>> GetAllTechs()
+        {
+            return Ok(await _projectservice.GetAllTechnologiesAsync());
+        }
+
+
+        [HttpPost("CreateTechnology")]
+        public async Task<ActionResult<TechnologiesDto>> CreateTech(CreateOrUpdateTechnologyDto Dto)
+        {
+            return Ok(await _projectservice.CreateTechnologyAsync(Dto));
+        }
+
+        [HttpPut("UpdateTechnology")]
+        public async Task<ActionResult<TechnologiesDto>> CreateTech(int id , CreateOrUpdateTechnologyDto Dto)
+        {
+            return Ok(await _projectservice.UpdateTechnologyAsync(id,Dto));
+        }
+
+        [HttpDelete("DeleteTech")]
+        public async Task<ActionResult<bool>> DeleteTech(int id)
+        {
+            return Ok(await _projectservice.DeleteTechnologyAsync(id));
+        }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3S77fJAyMPo=",
+  "dgSpecHash": "FFz3N6ORKLg=",
   "success": true,
-  "projectFilePath": "D:\\c#\\Brandifay\\BrandifySolution\\Infrastructure\\presistance\\presistance.csproj",
+  "projectFilePath": "D:\\c#\\Brandifay\\New folder\\Brandify\\Infrastructure\\presistance\\presistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AL-BOSTAN\\.nuget\\packages\\automapper\\16.0.0\\automapper.16.0.0.nupkg.sha512",
     "C:\\Users\\AL-BOSTAN\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

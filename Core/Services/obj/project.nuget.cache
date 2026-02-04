@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BHGOZ9o6P/U=",
+  "dgSpecHash": "R71xOoUO5Ig=",
   "success": true,
-  "projectFilePath": "D:\\c#\\Brandifay\\BrandifySolution\\Core\\Services\\Services.csproj",
+  "projectFilePath": "D:\\c#\\Brandifay\\New folder\\Brandify\\Core\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AL-BOSTAN\\.nuget\\packages\\automapper\\16.0.0\\automapper.16.0.0.nupkg.sha512",
     "C:\\Users\\AL-BOSTAN\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.23\\microsoft.aspnetcore.authentication.jwtbearer.8.0.23.nupkg.sha512",

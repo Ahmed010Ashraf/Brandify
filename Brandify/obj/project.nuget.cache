@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y0i33thfivE=",
+  "dgSpecHash": "AkU7d4jIx04=",
   "success": true,
-  "projectFilePath": "D:\\c#\\Brandifay\\BrandifySolution\\Brandify\\Brandify.csproj",
+  "projectFilePath": "D:\\c#\\Brandifay\\New folder\\Brandify\\Brandify\\Brandify.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AL-BOSTAN\\.nuget\\packages\\automapper\\16.0.0\\automapper.16.0.0.nupkg.sha512",
     "C:\\Users\\AL-BOSTAN\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

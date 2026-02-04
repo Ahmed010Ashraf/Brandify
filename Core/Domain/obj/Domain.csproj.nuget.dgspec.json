@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\Brandifay\\BrandifySolution\\Core\\Domain\\Domain.csproj": {}
+    "D:\\c#\\Brandifay\\New folder\\Brandify\\Core\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\c#\\Brandifay\\BrandifySolution\\Core\\Domain\\Domain.csproj": {
+    "D:\\c#\\Brandifay\\New folder\\Brandify\\Core\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\Brandifay\\BrandifySolution\\Core\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\c#\\Brandifay\\New folder\\Brandify\\Core\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\c#\\Brandifay\\BrandifySolution\\Core\\Domain\\Domain.csproj",
+        "projectPath": "D:\\c#\\Brandifay\\New folder\\Brandify\\Core\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\AL-BOSTAN\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\Brandifay\\BrandifySolution\\Core\\Domain\\obj\\",
+        "outputPath": "D:\\c#\\Brandifay\\New folder\\Brandify\\Core\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

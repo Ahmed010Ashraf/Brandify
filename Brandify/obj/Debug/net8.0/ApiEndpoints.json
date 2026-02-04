@@ -222,6 +222,83 @@
   },
   {
     "ContainingType": "Brandify.Controllers.ProjectsController",
+    "Method": "CreateTech",
+    "RelativePath": "api/Projects/CreateTechnology",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "IconUrl",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "shared.DTOs.TechnologiesDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Brandify.Controllers.ProjectsController",
+    "Method": "DeleteTech",
+    "RelativePath": "api/Projects/DeleteTech",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Brandify.Controllers.ProjectsController",
+    "Method": "GetAllTechs",
+    "RelativePath": "api/Projects/GetAllTechnologies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "shared.DTOs.TechnologiesDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Brandify.Controllers.ProjectsController",
     "Method": "UpdateProject",
     "RelativePath": "api/Projects/Update/{id}",
     "HttpMethod": "PUT",
@@ -242,6 +319,42 @@
     "ReturnTypes": [
       {
         "Type": "shared.DTOs.ProjectDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Brandify.Controllers.ProjectsController",
+    "Method": "CreateTech",
+    "RelativePath": "api/Projects/UpdateTechnology",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "IconUrl",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "shared.DTOs.TechnologiesDto",
         "MediaTypes": [
           "text/plain",
           "application/json",

@@ -55,7 +55,7 @@ namespace Services.mappingProfiles
         {
             if (source.IconUrl is not null)
             {
-                return $"{configurations.GetSection("BaseUrl")["BaseUrl"]}{source.IconUrl}";
+                return $"{configurations.GetSection("URLs")["BaseUrl"]}{source.IconUrl}";
             }
             return null;
         }
