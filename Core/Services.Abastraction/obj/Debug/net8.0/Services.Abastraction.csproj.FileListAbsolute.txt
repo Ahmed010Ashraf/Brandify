@@ -1,0 +1,15 @@
+D:\c#\Brandifay\BrandifySolution\Core\Services.Abastraction\bin\Debug\net8.0\Services.Abastraction.deps.json
+D:\c#\Brandifay\BrandifySolution\Core\Services.Abastraction\bin\Debug\net8.0\Services.Abastraction.dll
+D:\c#\Brandifay\BrandifySolution\Core\Services.Abastraction\bin\Debug\net8.0\Services.Abastraction.pdb
+D:\c#\Brandifay\BrandifySolution\Core\Services.Abastraction\bin\Debug\net8.0\shared.dll
+D:\c#\Brandifay\BrandifySolution\Core\Services.Abastraction\bin\Debug\net8.0\shared.pdb
+D:\c#\Brandifay\BrandifySolution\Core\Services.Abastraction\obj\Debug\net8.0\Services.Abastraction.csproj.AssemblyReference.cache
+D:\c#\Brandifay\BrandifySolution\Core\Services.Abastraction\obj\Debug\net8.0\Services.Abastraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Brandifay\BrandifySolution\Core\Services.Abastraction\obj\Debug\net8.0\Services.Abastraction.AssemblyInfoInputs.cache
+D:\c#\Brandifay\BrandifySolution\Core\Services.Abastraction\obj\Debug\net8.0\Services.Abastraction.AssemblyInfo.cs
+D:\c#\Brandifay\BrandifySolution\Core\Services.Abastraction\obj\Debug\net8.0\Services.Abastraction.csproj.CoreCompileInputs.cache
+D:\c#\Brandifay\BrandifySolution\Core\Services.Abastraction\obj\Debug\net8.0\Services.E9A068F4.Up2Date
+D:\c#\Brandifay\BrandifySolution\Core\Services.Abastraction\obj\Debug\net8.0\Services.Abastraction.dll
+D:\c#\Brandifay\BrandifySolution\Core\Services.Abastraction\obj\Debug\net8.0\refint\Services.Abastraction.dll
+D:\c#\Brandifay\BrandifySolution\Core\Services.Abastraction\obj\Debug\net8.0\Services.Abastraction.pdb
+D:\c#\Brandifay\BrandifySolution\Core\Services.Abastraction\obj\Debug\net8.0\ref\Services.Abastraction.dll

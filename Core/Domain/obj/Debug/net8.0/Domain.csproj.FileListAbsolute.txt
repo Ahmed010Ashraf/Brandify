@@ -1,0 +1,12 @@
+D:\c#\Brandifay\BrandifySolution\Core\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\c#\Brandifay\BrandifySolution\Core\Domain\bin\Debug\net8.0\Domain.dll
+D:\c#\Brandifay\BrandifySolution\Core\Domain\bin\Debug\net8.0\Domain.pdb
+D:\c#\Brandifay\BrandifySolution\Core\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Brandifay\BrandifySolution\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\c#\Brandifay\BrandifySolution\Core\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\c#\Brandifay\BrandifySolution\Core\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\c#\Brandifay\BrandifySolution\Core\Domain\obj\Debug\net8.0\Domain.dll
+D:\c#\Brandifay\BrandifySolution\Core\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\c#\Brandifay\BrandifySolution\Core\Domain\obj\Debug\net8.0\Domain.pdb
+D:\c#\Brandifay\BrandifySolution\Core\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\c#\Brandifay\BrandifySolution\Core\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
