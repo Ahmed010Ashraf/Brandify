@@ -48,19 +48,4 @@ Typical tables in this project:
 - `Requests`
 - `Users` (AspNetUsers) + Identity tables (if using ASP.NET Identity)
 
-> Note: Exact names/relationships depend on your implementation.
 
----
-
-## Getting Started
-
-### Prerequisites
-Make sure you have:
-- .NET SDK (recommended: .NET 7/8 depending on your project)
-- SQL Server (or your configured database)
-- Visual Studio / VS Code
-
-### 1) Clone the repository
-```bash
-git clone https://github.com/<your-username>/brandify-api.git
-cd brandify-api
